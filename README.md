@@ -30,8 +30,6 @@
 <br><br>
 
 
-## GitHub Stats
-
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishakhtar2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="danishakhtar2001" /></p>
 
