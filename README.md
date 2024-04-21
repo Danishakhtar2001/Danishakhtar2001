@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Zeya Mosharraf
+# Hi there! 👋 I'm 
 
-Welcome to my GitHub! I'm a passionate data analyst with a background in Industrial Chemistry. I enjoy delving into data to discover insights and tackle complex problems.
+Welcome to my GitHub! I'm a passionate data analyst with a background in Computer Science. I enjoy delving into data to discover insights and tackle complex problems.
 
 ## About Me
 
@@ -13,7 +13,8 @@ Welcome to my GitHub! I'm a passionate data analyst with a background in Industr
 
 ## Tools
 
-![Python](images/python_logo.png) ![MySQL](images/mysql_logo.png) ![PostgreSQL](images/postgresql_logo.png) ![Figma](images/figma_logo.png) ![Google Cloud](images/googlecloud_logo.png) ![Jupyter](images/jupyter_logo.png) ![Kaggle](images/kaggle_logo.png) ![NumPy](images/numpy_logo.png) ![Pandas](images/pandas_logo.png) ![Power BI](images/powerbi_logo.png) ![Looker](images/lookerstudio_logo.png)
+![Uttar_Pradesh_Lok_Sabha_election_result_2019](https://github.com/Danishakhtar2001/Danishakhtar2001/assets/156657584/61575e59-ba2a-4f18-b7a8-ba117176ee27)
+
 
 ## Social Links
 
