@@ -21,6 +21,8 @@
   <a href="https://instagram.com/danishakhtar_2001" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danishakhtar_2001" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/dynamicdanish201" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dynamicdanish201" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/danish_2001" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danish_2001" height="30" width="40" /></a>
+
+## Education
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishakhtar2001&show_icons=true&locale=en&layout=compact" alt="danishakhtar2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danishakhtar2001&show_icons=true&locale=en" alt="danishakhtar2001" /></p>
