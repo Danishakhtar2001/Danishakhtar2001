@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view](https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view)
 
-- ⚡ Fun fact **I think I am a good soccer player.**
+- ⚡ Fun fact: **I think I am a good soccer player.**
 <br><br>
 ## Social Links
   <a href="https://linkedin.com/in/danish-akhtar-542764222" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-akhtar-542764222" height="30" width="40" /></a>
