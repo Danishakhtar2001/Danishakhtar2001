@@ -1,46 +1,87 @@
-<h1 align="center">Hi 👋, I'm Danish Akhtar</h1>
-<h3 align="center">A Data Analyst</h3>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #121212; /* Dark background color */
+      color: #ffffff; /* Text color */
+      font-family: Arial, sans-serif; /* Font family */
+    }
 
-## Education
+    h1, h3 {
+      color: #ffffff; /* Text color for headings */
+    }
 
-- **Bachelor of Computer Applications**
-  - Guru Gobind Singh Indraprastha University, New Delhi, India
-  - Graduated: August, 2023
+    .container {
+      max-width: 800px; /* Maximum width for content */
+      margin: 0 auto; /* Center content horizontally */
+      padding: 20px; /* Add some padding around content */
+    }
 
-- 📫 How to reach me **danish.mdakhtar2001@gmail.com**
+    .icons-container {
+      display: flex; /* Use flexbox layout for icons */
+      justify-content: center; /* Center icons horizontally */
+      margin-top: 10px; /* Add some space above icons */
+    }
 
-- 🌱 **Currently Learning**: I'm constantly enthusiastic about acquiring new tools and techniques to improve my data analysis abilities.
+    .icons-container img {
+      margin: 0 10px; /* Add space between icons */
+    }
+  </style>
+</head>
+<body>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view](https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view)
+<div class="container">
+  <h1 align="center">Hi 👋, I'm Danish Akhtar</h1>
+  <h3 align="center">A Data Analyst</h3>
 
-- ⚡ Fun fact **I think I am a good soccer player.**
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <strong>Bachelor of Computer Applications</strong><br>
+      Guru Gobind Singh Indraprastha University, New Delhi, India<br>
+      Graduated: August, 2023
+    </li>
+  </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/danish-akhtar-542764222" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-akhtar-542764222" height="30" width="40" /></a>
-  <a href="https://instagram.com/danishakhtar_2001" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danishakhtar_2001" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/dynamicdanish201" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dynamicdanish201" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/danish_2001" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danish_2001" height="30" width="40" /></a>
-</p>
+  <p>📫 How to reach me: <a href="mailto:danish.mdakhtar2001@gmail.com">danish.mdakhtar2001@gmail.com</a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishakhtar2001&show_icons=true&locale=en&layout=compact" alt="danishakhtar2001" /></p>
+  <p>🌱 Currently Learning: I'm constantly enthusiastic about acquiring new tools and techniques to improve my data analysis abilities.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danishakhtar2001&show_icons=true&locale=en" alt="danishakhtar2001" /></p>
+  <p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view">here</a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danishakhtar2001&" alt="danishakhtar2001" /></p>
+  <p>⚡ Fun fact: I think I am a good soccer player.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+  <h3>Connect with me:</h3>
+  <div class="icons-container">
+    <a href="https://linkedin.com/in/danish-akhtar-542764222" target="_blank" rel="noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/danishakhtar_2001" target="_blank" rel="noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/dynamicdanish201" target="_blank" rel="noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/danish_2001" target="_blank" rel="noreferrer">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+  </div>
+
+  <h3>Languages and Tools:</h3>
+  <p>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40"/>
+    </a>
+    <!-- Add more icons here -->
+  </p>
+</div>
+
+</body>
+</html>
