@@ -32,10 +32,17 @@
 
 ## GitHub Stats
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danishakhtar2001&theme=dark" alt="danishakhtar2001" /></p>
+## Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishakhtar2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="danishakhtar2001" /></p>
 
-<!-- Languages and Tools -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danishakhtar2001&show_icons=true&locale=en&theme=dark" alt="danishakhtar2001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danishakhtar2001&theme=dark" alt="danishakhtar2001" /></p>
+
+
+
+
+<br><br>
 ## Languages and Tools
 
 <p align="left"> 
