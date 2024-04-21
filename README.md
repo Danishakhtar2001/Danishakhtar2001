@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Danish Akhtar</h1>
 <h3 align="center">A Data Analyst</h3>
 
-- 💬 Ask me about **Data Science**
+
+- ## Education
+
+- **Bachelor of Computer Applications**
+  - Guru Gobind Singh Indraprastha University, New Delhi, India
+  - Graduated: August, 2023
 
 - 📫 How to reach me **danish.mdakhtar2001@gmail.com**
+
+- 🌱 **Currently Learning**: I'm constantly enthusiastic about acquiring new tools and techniques to improve my data analysis abilities.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view](https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view)
 
