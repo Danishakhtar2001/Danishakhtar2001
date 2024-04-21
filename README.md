@@ -15,13 +15,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view](https://drive.google.com/file/d/1BxCyNFAMRK9ai9hf4HRKi0H0x39ezkve/view)
 
 - ⚡ Fun fact **I think I am a good soccer player.**
-
+<br><br>
 ## Social Links
   <a href="https://linkedin.com/in/danish-akhtar-542764222" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-akhtar-542764222" height="30" width="40" /></a>
   <a href="https://instagram.com/danishakhtar_2001" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danishakhtar_2001" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/dynamicdanish201" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dynamicdanish201" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/danish_2001" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danish_2001" height="30" width="40" /></a>
-
+<br><br>
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishakhtar2001&show_icons=true&locale=en&layout=compact" alt="danishakhtar2001" /></p>
 
@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danishakhtar2001&" alt="danishakhtar2001" /></p>
 
-
+<br><br>
 ## Languages and Tools:
 <p align="left"> 
    
