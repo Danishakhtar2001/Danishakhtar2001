@@ -1,11 +1,3 @@
-<!-- Dark Background -->
-<style>
-  body {
-    background-color: #1a1b27;
-    color: #ffffff;
-  }
-</style>
-
 <!-- Content -->
 <h1 align="center">Hi 👋, I'm Danish Akhtar</h1>
 <h3 align="center">A Data Analyst</h3>
